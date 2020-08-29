@@ -1,0 +1,21 @@
+﻿"Title: Population Distribution by Race/Ethnicity | KFF"
+"Timeframe: 2018"
+"Location","White","Black","Hispanic","American Indian/Alaska Native","Asian","Native Hawaiian/Other Pacific Islander","Two Or More Races","Total",Footnotes
+"United States","192117000","38655700","58483600","2082800","17844800","519500","8795000","318498500","1"
+
+"Notes"
+"Population and demographic data on are based on analysis of the Census Bureau’s American Community Survey (ACS) and may differ from other population estimates published yearly by the Census Bureau. U.S. and state population data displayed on this site are restricted to the civilian, non-institutionalized population for whom ACS collects and reports poverty information. "
+""
+"Population numbers are rounded to the nearest 100."
+
+"Sources"
+"Kaiser Family Foundation estimates based on the Census Bureau's American Community Survey, 2008-2018."
+
+"Definitions"
+"*N/A*: Estimates with relative standard errors greater than 30% are not provided."
+""
+"Persons of Hispanic origin may be of any race; all other racial/ethnic groups are non-Hispanic."
+
+
+Footnotes
+"1. US total excludes Puerto Rico."
